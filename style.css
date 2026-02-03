@@ -1,0 +1,26 @@
+div{
+   text-align: center;
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    border: none;
+    color: white;
+}
+
+.start{
+    background-color: rgb(11, 12, 11);
+    border-radius: 10px;
+    
+}
+
+.pause{
+    background-color: rgb(6, 6, 5);
+    border-radius: 10px;
+}
+
+.stop{
+    background-color: rgb(150, 37, 25);
+    border-radius: 10px;
+}
